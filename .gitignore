@@ -1,0 +1,16 @@
+# Deep Learning Artifacts
+*.pth
+*.h5
+*.pkl
+*.data
+/checkpoints/
+
+# Datasets and Data Directories
+data/
+datasets/
+/Cat_Dog_Dataset_Tong_Python/
+/Dogs_vs_Cats_Redux/
+
+# Python Artifacts
+__pycache__/
+.ipynb_checkpoints
