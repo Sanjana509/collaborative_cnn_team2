@@ -1,0 +1,7 @@
+{
+    "model": "model_v2",
+    "dataset": "Dogs vs Cats Redux (User 2)",
+    "accuracy": 96.144,
+    "epochs": 10,
+    "improvements": "Added Dropout (p=0.3)"
+}
