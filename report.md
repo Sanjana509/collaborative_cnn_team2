@@ -27,4 +27,4 @@ Summarization table for performance of both Model V1 and improved Model V2-
 
 **Observations on generalization and domain shift**
 
-We observed that the two separate datasets were quite similar, which helped the model generalize well across them. With the added dropout layer, Model V2 showed the highest and most reliable accuracy.”
+We observed that the two separate datasets were quite similar, which helped the model generalize well across them. With the added dropout layer, Model V2 showed the highest and most reliable accuracy.
