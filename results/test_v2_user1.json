@@ -1,0 +1,7 @@
+{
+    "model_tested": "model_v2_mobilenet_dropout",
+    "trained_on": "Dogs vs Cats Redux",
+    "tested_on": "Cat & Dog Dataset (tongpython)",
+    "accuracy": 0.982261086820737,
+    "f1_score": 0.9823295171727228
+}
