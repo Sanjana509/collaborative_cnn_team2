@@ -1,6 +1,6 @@
 {
     "model": "model_v1_mobilenet",
     "dataset": "Cat & Dog Dataset (tongpython)",
-    "accuracy": 97.56402248594628,
+    "accuracy": 97.81386633354154,
     "epochs": 10
 }
