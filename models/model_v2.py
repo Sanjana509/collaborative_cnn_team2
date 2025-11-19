@@ -8,7 +8,6 @@ class ModelV2(nn.Module):
         super(ModelV2, self).__init__()
         self.model = models.mobilenet_v2(weights=models.MobileNet_V2_Weights.DEFAULT)
         
-        # Freeze feature layers
         for param in self.model.features.parameters():
             param.requires_grad = False
             
