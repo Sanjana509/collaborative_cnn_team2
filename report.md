@@ -18,7 +18,7 @@ Summarization table for performance of both Model V1 and improved Model V2-
 
 | Model | Trained On | Tested On | Accuracy |
 | :--- | :--- | :--- | :--- |
-| V1 | User 1 Data | User 1 Data (Train Metrics) | 97.56% |
+| V1 | User 1 Data | User 1 Data (Train Metrics) | 97.18% |
 | V1 | User 1 Data | User 2 Data (Cross Test) | 97.15% |
 | V2 | User 2 Data | User 2 Data (Train Metrics) | 96.23% |
 | V2 | User 2 Data | User 1 Data (Cross Test) | 98.23% |
